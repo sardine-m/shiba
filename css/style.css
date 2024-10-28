@@ -14,7 +14,7 @@ header {
   align-items: center;
   height: 10vh;
   background-color: black;
-  padding: 0.5rem 15rem; 
+  padding: 0.5rem 5rem; 
 }
 
 .nav-list {
@@ -31,7 +31,7 @@ header {
 
 .nav-link {
   text-decoration: none;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   color: rgb(255, 255, 255);
   font-weight: bold;
   background-color: #fd9f20;
@@ -173,7 +173,7 @@ header {
   color: #fd9f20;
   flex: 2; 
   padding: 4rem; 
-  border: 7px solid #fd9f20; 
+  border: 5px solid #fd9f20; 
   border-radius: 10px; 
   text-align: center;
 }
@@ -224,7 +224,7 @@ header {
   align-items: center;
   background-color: #fd9f20;
   border-radius: 10px;
-  margin: 4rem 20rem;
+  margin: 4rem 13rem;
   border: 2px solid white;
 }
 
